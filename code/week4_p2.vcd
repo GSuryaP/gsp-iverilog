@@ -1,0 +1,122 @@
+$date
+	Thu Sep 05 12:52:28 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! final_cout $end
+$var wire 1 " final_sum $end
+$var reg 1 # Y $end
+$var reg 1 $ Y0 $end
+$var reg 3 % i [2:0] $end
+$scope module uut $end
+$var wire 1 & C0 $end
+$var wire 1 ' S0 $end
+$var wire 1 ( Y $end
+$var wire 1 ) Y0 $end
+$var wire 1 * Y1 $end
+$var wire 1 + Y_not $end
+$var wire 1 ! final_cout $end
+$var wire 1 " final_sum $end
+$var wire 3 , i [2:0] $end
+$scope module FA $end
+$var wire 1 & C0 $end
+$var wire 1 ' S0 $end
+$var wire 1 - i0 $end
+$var wire 1 . i1 $end
+$var wire 1 / i2 $end
+$var wire 1 0 t1 $end
+$var wire 1 1 t2 $end
+$var wire 1 2 t3 $end
+$upscope $end
+$scope module HA $end
+$var wire 1 * a $end
+$var wire 1 ) b $end
+$var wire 1 ! cout $end
+$var wire 1 " sum $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+02
+01
+00
+0/
+0.
+0-
+b0 ,
+1+
+0*
+0)
+0(
+0'
+0&
+b0 %
+0$
+0#
+0"
+0!
+$end
+#10
+1'
+0+
+1"
+1-
+1#
+1(
+1$
+1)
+b1 %
+b1 ,
+#20
+0"
+0-
+1.
+0$
+0)
+b10 %
+b10 ,
+#30
+1&
+0'
+10
+1+
+1"
+1-
+0#
+0(
+1$
+1)
+b11 %
+b11 ,
+#40
+0&
+00
+1'
+0+
+0-
+0.
+1/
+1#
+1(
+b100 %
+b100 ,
+#50
+1&
+12
+10
+11
+0"
+1-
+1.
+0$
+0)
+b111 %
+b111 ,
+#60

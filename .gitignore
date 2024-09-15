@@ -1,0 +1,2 @@
+# ignore Output files (using convention of .out extension)
+*.out
